@@ -8,6 +8,7 @@ Design and integration of a semi‑automatic manufacturing cell combining CNC ma
 4. IoT Monitoring
 5. Digital Twin Simulation
 6. Access Control
+7. Team
 ---
 
 ### 1. Introduction
@@ -27,3 +28,5 @@ Siemens Plant Simulation was used to create a digital twin of the production lin
 
 ### 6. Access Control
 To ensure secure operation, the system integrated RFID authentication and a Face ID module developed in Python with OpenCV. These features allowed only authorized users to access and control the manufacturing cell, combining cybersecurity with industrial automation.
+
+### 7. Team Developed by **Team MARO** at ITESM Campus Querétaro: - Jair André Ibarra Campa - Ana Laura Rosas Balderas - Jorge Julián Razura Piña - José Manuel Morales Murueta
